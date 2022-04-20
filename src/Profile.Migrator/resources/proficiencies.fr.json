@@ -1,0 +1,18 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Débutant (A1 - A2)"
+  },
+  {
+    "id": 2,
+    "name": "Intermédiaire (B1 - B2)"
+  },
+  {
+    "id": 3,
+    "name": "Avancé (С1)"
+  },
+  {
+    "id": 4,
+    "name": "Natif (С2 +)"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Beginner (A1 - A2)"
+  },
+  {
+    "id": 2,
+    "name": "Intermediate (B1 - B2)"
+  },
+  {
+    "id": 3,
+    "name": "Advanced (C1)"
+  },
+  {
+    "id": 4,
+    "name": "Native (C2 +)"
+  }
+]

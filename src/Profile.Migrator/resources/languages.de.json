@@ -1,0 +1,1558 @@
+﻿[
+  {
+    "code": "abk",
+    "name": "Abchasisch"
+  },
+  {
+    "code": "ace",
+    "name": "Aceh-Sprache"
+  },
+  {
+    "code": "ach",
+    "name": "Acholi-Sprache"
+  },
+  {
+    "code": "ada",
+    "name": "Adangme-Sprache"
+  },
+  {
+    "code": "ady",
+    "name": "Adygisch"
+  },
+  {
+    "code": "aar",
+    "name": "Danakil-Sprache"
+  },
+  {
+    "code": "afh",
+    "name": "Afrihili"
+  },
+  {
+    "code": "afr",
+    "name": "Afrikaans"
+  },
+  {
+    "code": "ain",
+    "name": "Ainu-Sprache"
+  },
+  {
+    "code": "aka",
+    "name": "Akan-Sprache"
+  },
+  {
+    "code": "akk",
+    "name": "Akkadisch"
+  },
+  {
+    "code": "sqi",
+    "name": "Albanisch"
+  },
+  {
+    "code": "ale",
+    "name": "Aleutisch"
+  },
+  {
+    "code": "amh",
+    "name": "Amharisch"
+  },
+  {
+    "code": "anp",
+    "name": "Anga-Sprache"
+  },
+  {
+    "code": "ara",
+    "name": "Arabisch"
+  },
+  {
+    "code": "arg",
+    "name": "Aragonesisch"
+  },
+  {
+    "code": "arp",
+    "name": "Arapaho-Sprache"
+  },
+  {
+    "code": "arw",
+    "name": "Arawak-Sprachen"
+  },
+  {
+    "code": "hye",
+    "name": "Armenisch"
+  },
+  {
+    "code": "rup",
+    "name": "Aromunisch"
+  },
+  {
+    "code": "asm",
+    "name": "Assamesisch"
+  },
+  {
+    "code": "ast",
+    "name": "Asturisch"
+  },
+  {
+    "code": "ava",
+    "name": "Awarisch"
+  },
+  {
+    "code": "ave",
+    "name": "Avestisch"
+  },
+  {
+    "code": "awa",
+    "name": "Awadhi"
+  },
+  {
+    "code": "aym",
+    "name": "Aymará-Sprache"
+  },
+  {
+    "code": "aze",
+    "name": "Aserbeidschanisch"
+  },
+  {
+    "code": "ban",
+    "name": "Balinesisch"
+  },
+  {
+    "code": "bal",
+    "name": "Belutschisch"
+  },
+  {
+    "code": "bam",
+    "name": "Bambara-Sprache"
+  },
+  {
+    "code": "bas",
+    "name": "Basaa-Sprache"
+  },
+  {
+    "code": "bak",
+    "name": "Baschkirisch"
+  },
+  {
+    "code": "baq",
+    "name": "Baskisch"
+  },
+  {
+    "code": "bej",
+    "name": "Bedauye"
+  },
+  {
+    "code": "bel",
+    "name": "Weißrussisch"
+  },
+  {
+    "code": "bem",
+    "name": "Bemba-Sprache"
+  },
+  {
+    "code": "ben",
+    "name": "Bengali"
+  },
+  {
+    "code": "bho",
+    "name": "Bhojpuri"
+  },
+  {
+    "code": "bik",
+    "name": "Bikol-Sprache"
+  },
+  {
+    "code": "bin",
+    "name": "Edo-Sprache"
+  },
+  {
+    "code": "bis",
+    "name": "Beach-la-mar"
+  },
+  {
+    "code": "byn",
+    "name": "Bilin-Sprache"
+  },
+  {
+    "code": "nob",
+    "name": "Bokmål"
+  },
+  {
+    "code": "bos",
+    "name": "Bosnisch"
+  },
+  {
+    "code": "bra",
+    "name": "Braj-Bhakha"
+  },
+  {
+    "code": "bre",
+    "name": "Bretonisch"
+  },
+  {
+    "code": "bug",
+    "name": "Bugi-Sprache"
+  },
+  {
+    "code": "bul",
+    "name": "Bulgarisch"
+  },
+  {
+    "code": "bua",
+    "name": "Burjatisch"
+  },
+  {
+    "code": "bur",
+    "name": "Birmanisch"
+  },
+  {
+    "code": "cad",
+    "name": "Caddo-Sprachen"
+  },
+  {
+    "code": "cat",
+    "name": "Katalanisch"
+  },
+  {
+    "code": "ceb",
+    "name": "Cebuano"
+  },
+  {
+    "code": "khm",
+    "name": "Kambodschanisch"
+  },
+  {
+    "code": "chg",
+    "name": "Tschagataisch"
+  },
+  {
+    "code": "cha",
+    "name": "Chamorro-Sprache"
+  },
+  {
+    "code": "che",
+    "name": "Tschetschenisch"
+  },
+  {
+    "code": "chr",
+    "name": "Cherokee-Sprache"
+  },
+  {
+    "code": "chy",
+    "name": "Cheyenne-Sprache"
+  },
+  {
+    "code": "chb",
+    "name": "Chibcha-Sprachen"
+  },
+  {
+    "code": "nya",
+    "name": "Nyanja-Sprache"
+  },
+  {
+    "code": "zho",
+    "name": "Chinesisch"
+  },
+  {
+    "code": "chn",
+    "name": "Chinook-Jargon"
+  },
+  {
+    "code": "chp",
+    "name": "Chipewyan-Sprache"
+  },
+  {
+    "code": "cho",
+    "name": "Choctaw-Sprache"
+  },
+  {
+    "code": "chk",
+    "name": "Trukesisch"
+  },
+  {
+    "code": "chv",
+    "name": "Tschuwaschisch"
+  },
+  {
+    "code": "cop",
+    "name": "Koptisch"
+  },
+  {
+    "code": "cor",
+    "name": "Kornisch"
+  },
+  {
+    "code": "cos",
+    "name": "Korsisch"
+  },
+  {
+    "code": "cre",
+    "name": "Cree-Sprache"
+  },
+  {
+    "code": "mus",
+    "name": "Muskogisch"
+  },
+  {
+    "code": "crh",
+    "name": "Krimtatarisch"
+  },
+  {
+    "code": "hrv",
+    "name": "Kroatisch"
+  },
+  {
+    "code": "ces",
+    "name": "Tschechisch"
+  },
+  {
+    "code": "dak",
+    "name": "Dakota-Sprache"
+  },
+  {
+    "code": "dan",
+    "name": "Dänisch"
+  },
+  {
+    "code": "dar",
+    "name": "Darginisch"
+  },
+  {
+    "code": "del",
+    "name": "Delaware-Sprache"
+  },
+  {
+    "code": "din",
+    "name": "Dinka-Sprache"
+  },
+  {
+    "code": "div",
+    "name": "Maledivisch"
+  },
+  {
+    "code": "doi",
+    "name": "Dogri"
+  },
+  {
+    "code": "dgr",
+    "name": "Dogrib-Sprache"
+  },
+  {
+    "code": "dua",
+    "name": "Duala-Sprachen"
+  },
+  {
+    "code": "nld",
+    "name": "Niederländisch"
+  },
+  {
+    "code": "dyu",
+    "name": "Dyula-Sprache"
+  },
+  {
+    "code": "dzo",
+    "name": "Dzongkha"
+  },
+  {
+    "code": "frs",
+    "name": "Ostfriesisch"
+  },
+  {
+    "code": "efi",
+    "name": "Efik"
+  },
+  {
+    "code": "eka",
+    "name": "Ekajuk"
+  },
+  {
+    "code": "elx",
+    "name": "Elamisch"
+  },
+  {
+    "code": "eng",
+    "name": "Englisch"
+  },
+  {
+    "code": "myv",
+    "name": "Erza-Mordwinisch"
+  },
+  {
+    "code": "epo",
+    "name": "Esperanto"
+  },
+  {
+    "code": "est",
+    "name": "Estnisch"
+  },
+  {
+    "code": "ewe",
+    "name": "Ewe-Sprache"
+  },
+  {
+    "code": "ewo",
+    "name": "Ewondo"
+  },
+  {
+    "code": "fan",
+    "name": "Pangwe-Sprache"
+  },
+  {
+    "code": "fat",
+    "name": "Fante-Sprache"
+  },
+  {
+    "code": "fao",
+    "name": "Färöisch"
+  },
+  {
+    "code": "fij",
+    "name": "Fidschi-Sprache"
+  },
+  {
+    "code": "fil",
+    "name": "Pilipino"
+  },
+  {
+    "code": "fin",
+    "name": "Finnisch"
+  },
+  {
+    "code": "fon",
+    "name": "Fon-Sprache"
+  },
+  {
+    "code": "fra",
+    "name": "Französisch"
+  },
+  {
+    "code": "fur",
+    "name": "Friulisch"
+  },
+  {
+    "code": "ful",
+    "name": "Ful"
+  },
+  {
+    "code": "gaa",
+    "name": "Ga-Sprache"
+  },
+  {
+    "code": "gla",
+    "name": "Gälisch-Schottisch"
+  },
+  {
+    "code": "car",
+    "name": "Karibische Sprachen"
+  },
+  {
+    "code": "glg",
+    "name": "Galicisch"
+  },
+  {
+    "code": "lug",
+    "name": "Ganda-Sprache"
+  },
+  {
+    "code": "gay",
+    "name": "Gayo-Sprache"
+  },
+  {
+    "code": "gba",
+    "name": "Gbaya-Sprache"
+  },
+  {
+    "code": "gez",
+    "name": "Altäthiopisch"
+  },
+  {
+    "code": "kat",
+    "name": "Georgisch"
+  },
+  {
+    "code": "deu",
+    "name": "Deutsch"
+  },
+  {
+    "code": "gil",
+    "name": "Gilbertesisch"
+  },
+  {
+    "code": "gon",
+    "name": "Gondi-Sprache"
+  },
+  {
+    "code": "gor",
+    "name": "Gorontalesisch"
+  },
+  {
+    "code": "got",
+    "name": "Gotisch"
+  },
+  {
+    "code": "grb",
+    "name": "Grebo-Sprache"
+  },
+  {
+    "code": "ell",
+    "name": "Neugriechisch"
+  },
+  {
+    "code": "grn",
+    "name": "Guaraní-Sprache"
+  },
+  {
+    "code": "guj",
+    "name": "Gujarati-Sprache"
+  },
+  {
+    "code": "gwi",
+    "name": "Kutchin-Sprache"
+  },
+  {
+    "code": "hai",
+    "name": "Haida-Sprache"
+  },
+  {
+    "code": "hat",
+    "name": "Haïtien"
+  },
+  {
+    "code": "hau",
+    "name": "Haussa-Sprache"
+  },
+  {
+    "code": "haw",
+    "name": "Hawaiisch"
+  },
+  {
+    "code": "heb",
+    "name": "Hebräisch"
+  },
+  {
+    "code": "her",
+    "name": "Herero-Sprache"
+  },
+  {
+    "code": "hil",
+    "name": "Hiligaynon-Sprache"
+  },
+  {
+    "code": "hin",
+    "name": "Hindi"
+  },
+  {
+    "code": "hmo",
+    "name": "Hiri-Motu"
+  },
+  {
+    "code": "hit",
+    "name": "Hethitisch"
+  },
+  {
+    "code": "hmn",
+    "name": "Miao-Sprachen"
+  },
+  {
+    "code": "hun",
+    "name": "Ungarisch"
+  },
+  {
+    "code": "hup",
+    "name": "Hupa-Sprache"
+  },
+  {
+    "code": "iba",
+    "name": "Iban-Sprache"
+  },
+  {
+    "code": "isl",
+    "name": "Isländisch"
+  },
+  {
+    "code": "ido",
+    "name": "Ido"
+  },
+  {
+    "code": "ibo",
+    "name": "Ibo-Sprache"
+  },
+  {
+    "code": "ilo",
+    "name": "Ilokano-Sprache"
+  },
+  {
+    "code": "smn",
+    "name": "Inarisaamisch"
+  },
+  {
+    "code": "ind",
+    "name": "Bahasa Indonesia"
+  },
+  {
+    "code": "inh",
+    "name": "Inguschisch"
+  },
+  {
+    "code": "iku",
+    "name": "Inuktitut"
+  },
+  {
+    "code": "ipk",
+    "name": "Inupik"
+  },
+  {
+    "code": "gle",
+    "name": "Irisch"
+  },
+  {
+    "code": "ita",
+    "name": "Italienisch"
+  },
+  {
+    "code": "jpn",
+    "name": "Japanisch"
+  },
+  {
+    "code": "jav",
+    "name": "Javanisch"
+  },
+  {
+    "code": "jrb",
+    "name": "Jüdisch-Arabisch"
+  },
+  {
+    "code": "jpr",
+    "name": "Jüdisch-Persisch"
+  },
+  {
+    "code": "kbd",
+    "name": "Kabardinisch"
+  },
+  {
+    "code": "kab",
+    "name": "Kabylisch"
+  },
+  {
+    "code": "kac",
+    "name": "Kachin-Sprache"
+  },
+  {
+    "code": "kal",
+    "name": "Grönländisch"
+  },
+  {
+    "code": "xal",
+    "name": "Kalmückisch"
+  },
+  {
+    "code": "kam",
+    "name": "Kamba-Sprache"
+  },
+  {
+    "code": "kan",
+    "name": "Kannada"
+  },
+  {
+    "code": "kau",
+    "name": "Kanuri-Sprache"
+  },
+  {
+    "code": "kaa",
+    "name": "Karakalpakisch"
+  },
+  {
+    "code": "krc",
+    "name": "Karatschaiisch-Balkarisch"
+  },
+  {
+    "code": "krl",
+    "name": "Karelisch"
+  },
+  {
+    "code": "kas",
+    "name": "Kaschmiri"
+  },
+  {
+    "code": "csb",
+    "name": "Kaschubisch"
+  },
+  {
+    "code": "kaw",
+    "name": "Kawi"
+  },
+  {
+    "code": "kaz",
+    "name": "Kasachisch"
+  },
+  {
+    "code": "kha",
+    "name": "Khasi-Sprache"
+  },
+  {
+    "code": "kho",
+    "name": "Sakisch"
+  },
+  {
+    "code": "kik",
+    "name": "Kikuyu-Sprache"
+  },
+  {
+    "code": "kmb",
+    "name": "Kimbundu-Sprache"
+  },
+  {
+    "code": "kin",
+    "name": "Rwanda-Sprache"
+  },
+  {
+    "code": "kir",
+    "name": "Kirgisisch"
+  },
+  {
+    "code": "tlh",
+    "name": "Klingonisch"
+  },
+  {
+    "code": "kom",
+    "name": "Komi-Sprache"
+  },
+  {
+    "code": "kon",
+    "name": "Kongo-Sprache"
+  },
+  {
+    "code": "kok",
+    "name": "Konkani"
+  },
+  {
+    "code": "kor",
+    "name": "Koreanisch"
+  },
+  {
+    "code": "kos",
+    "name": "Kosraeanisch"
+  },
+  {
+    "code": "kpe",
+    "name": "Kpelle-Sprache"
+  },
+  {
+    "code": "kua",
+    "name": "Kwanyama-Sprache"
+  },
+  {
+    "code": "kum",
+    "name": "Kumükisch"
+  },
+  {
+    "code": "kur",
+    "name": "Kurdisch"
+  },
+  {
+    "code": "kru",
+    "name": "Oraon-Sprache"
+  },
+  {
+    "code": "kut",
+    "name": "Kutenai-Sprache"
+  },
+  {
+    "code": "lad",
+    "name": "Judenspanisch"
+  },
+  {
+    "code": "lah",
+    "name": "Lahnda"
+  },
+  {
+    "code": "lam",
+    "name": "Lamba-Sprache"
+  },
+  {
+    "code": "lao",
+    "name": "Laotisch"
+  },
+  {
+    "code": "lat",
+    "name": "Latein"
+  },
+  {
+    "code": "lav",
+    "name": "Lettisch"
+  },
+  {
+    "code": "lez",
+    "name": "Lesgisch"
+  },
+  {
+    "code": "lim",
+    "name": "Limburgisch"
+  },
+  {
+    "code": "lin",
+    "name": "Lingala"
+  },
+  {
+    "code": "lit",
+    "name": "Litauisch"
+  },
+  {
+    "code": "jbo",
+    "name": "Lojban"
+  },
+  {
+    "code": "dsb",
+    "name": "Niedersorbisch"
+  },
+  {
+    "code": "loz",
+    "name": "Rotse-Sprache"
+  },
+  {
+    "code": "lub",
+    "name": "Luba-Katanga-Sprache"
+  },
+  {
+    "code": "lua",
+    "name": "Lulua-Sprache"
+  },
+  {
+    "code": "lui",
+    "name": "Luiseño-Sprache"
+  },
+  {
+    "code": "smj",
+    "name": "Lulesaamisch"
+  },
+  {
+    "code": "lun",
+    "name": "Lunda-Sprache"
+  },
+  {
+    "code": "lus",
+    "name": "Lushai-Sprache"
+  },
+  {
+    "code": "ltz",
+    "name": "Luxemburgisch"
+  },
+  {
+    "code": "mac",
+    "name": "Makedonisch"
+  },
+  {
+    "code": "mad",
+    "name": "Maduresisch"
+  },
+  {
+    "code": "mag",
+    "name": "Khotta"
+  },
+  {
+    "code": "mai",
+    "name": "Maithili"
+  },
+  {
+    "code": "mak",
+    "name": "Makassarisch"
+  },
+  {
+    "code": "mlg",
+    "name": "Malagassi-Sprache"
+  },
+  {
+    "code": "msa",
+    "name": "Malaiisch"
+  },
+  {
+    "code": "mal",
+    "name": "Malayalam"
+  },
+  {
+    "code": "mlt",
+    "name": "Maltesisch"
+  },
+  {
+    "code": "mnc",
+    "name": "Mandschurisch"
+  },
+  {
+    "code": "mdr",
+    "name": "Mandaresisch"
+  },
+  {
+    "code": "man",
+    "name": "Malinke-Sprache"
+  },
+  {
+    "code": "mni",
+    "name": "Meithei-Sprache"
+  },
+  {
+    "code": "glv",
+    "name": "Manx"
+  },
+  {
+    "code": "mri",
+    "name": "Maori-Sprache"
+  },
+  {
+    "code": "arn",
+    "name": "Arauka-Sprachen"
+  },
+  {
+    "code": "mar",
+    "name": "Marathi"
+  },
+  {
+    "code": "chm",
+    "name": "Tscheremissisch"
+  },
+  {
+    "code": "mah",
+    "name": "Marschallesisch"
+  },
+  {
+    "code": "mwr",
+    "name": "Marwari"
+  },
+  {
+    "code": "mas",
+    "name": "Massai-Sprache"
+  },
+  {
+    "code": "men",
+    "name": "Mende-Sprache"
+  },
+  {
+    "code": "mic",
+    "name": "Micmac-Sprache"
+  },
+  {
+    "code": "min",
+    "name": "Minangkabau-Sprache"
+  },
+  {
+    "code": "mwl",
+    "name": "Mirandesisch"
+  },
+  {
+    "code": "moh",
+    "name": "Mohawk-Sprache"
+  },
+  {
+    "code": "mdf",
+    "name": "Mokscha-Sprache"
+  },
+  {
+    "code": "lol",
+    "name": "Mongo-Sprache"
+  },
+  {
+    "code": "mon",
+    "name": "Mongolisch"
+  },
+  {
+    "code": "cnr",
+    "name": "Montenegrinisch"
+  },
+  {
+    "code": "mos",
+    "name": "Mossi-Sprache"
+  },
+  {
+    "code": "nqo",
+    "name": "N'Ko"
+  },
+  {
+    "code": "nau",
+    "name": "Nauruanisch"
+  },
+  {
+    "code": "nav",
+    "name": "Navajo-Sprache"
+  },
+  {
+    "code": "nde",
+    "name": "Ndebele-Sprache (Simbabwe)"
+  },
+  {
+    "code": "nbl",
+    "name": "Ndebele-Sprache (Transvaal)"
+  },
+  {
+    "code": "ndo",
+    "name": "Ndonga"
+  },
+  {
+    "code": "nap",
+    "name": "Neapel "
+  },
+  {
+    "code": "new",
+    "name": "Newari"
+  },
+  {
+    "code": "nep",
+    "name": "Nepali"
+  },
+  {
+    "code": "nia",
+    "name": "Nias-Sprache"
+  },
+  {
+    "code": "niu",
+    "name": "Niue-Sprache"
+  },
+  {
+    "code": "nog",
+    "name": "Nogaisch"
+  },
+  {
+    "code": "non",
+    "name": "Altnorwegisch"
+  },
+  {
+    "code": "frr",
+    "name": "Nordfriesisch"
+  },
+  {
+    "code": "sme",
+    "name": "Nordsaamisch"
+  },
+  {
+    "code": "nor",
+    "name": "Norwegisch"
+  },
+  {
+    "code": "nno",
+    "name": "Nynorsk"
+  },
+  {
+    "code": "nym",
+    "name": "Nyamwezi-Sprache"
+  },
+  {
+    "code": "nyn",
+    "name": "Nkole-Sprache"
+  },
+  {
+    "code": "nyo",
+    "name": "Nyoro-Sprache"
+  },
+  {
+    "code": "nzi",
+    "name": "Nzima-Sprache"
+  },
+  {
+    "code": "oji",
+    "name": "Ojibwa-Sprache"
+  },
+  {
+    "code": "ori",
+    "name": "Oriya-Sprache"
+  },
+  {
+    "code": "orm",
+    "name": "Galla-Sprache"
+  },
+  {
+    "code": "osa",
+    "name": "Osage-Sprache"
+  },
+  {
+    "code": "oss",
+    "name": "Ossetisch"
+  },
+  {
+    "code": "pal",
+    "name": "Mittelpersisch"
+  },
+  {
+    "code": "pau",
+    "name": "Palau-Sprache"
+  },
+  {
+    "code": "pli",
+    "name": "Pali"
+  },
+  {
+    "code": "pam",
+    "name": "Pampanggan-Sprache"
+  },
+  {
+    "code": "pag",
+    "name": "Pangasinan-Sprache"
+  },
+  {
+    "code": "pan",
+    "name": "Pandschabi-Sprache"
+  },
+  {
+    "code": "pap",
+    "name": "Papiamento"
+  },
+  {
+    "code": "nso",
+    "name": "Pedi-Sprache"
+  },
+  {
+    "code": "fas",
+    "name": "Persisch"
+  },
+  {
+    "code": "phn",
+    "name": "Phönikisch"
+  },
+  {
+    "code": "pon",
+    "name": "Ponapeanisch"
+  },
+  {
+    "code": "pol",
+    "name": "Polnisch"
+  },
+  {
+    "code": "por",
+    "name": "Portugiesisch"
+  },
+  {
+    "code": "pus",
+    "name": "Paschtu"
+  },
+  {
+    "code": "que",
+    "name": "Quechua-Sprache"
+  },
+  {
+    "code": "raj",
+    "name": "Rajasthani"
+  },
+  {
+    "code": "rap",
+    "name": "Osterinsel-Sprache"
+  },
+  {
+    "code": "rar",
+    "name": "Rarotonganisch"
+  },
+  {
+    "code": "ron",
+    "name": "Rumänisch"
+  },
+  {
+    "code": "roh",
+    "name": "Rätoromanisch"
+  },
+  {
+    "code": "rom",
+    "name": "Romani (Sprache)"
+  },
+  {
+    "code": "run",
+    "name": "Rundi-Sprache"
+  },
+  {
+    "code": "rus",
+    "name": "Russisch"
+  },
+  {
+    "code": "sam",
+    "name": "Samaritanisch"
+  },
+  {
+    "code": "smo",
+    "name": "Samoanisch"
+  },
+  {
+    "code": "sad",
+    "name": "Sandawe-Sprache"
+  },
+  {
+    "code": "sag",
+    "name": "Sango-Sprache"
+  },
+  {
+    "code": "san",
+    "name": "Sanskrit"
+  },
+  {
+    "code": "sat",
+    "name": "Santali"
+  },
+  {
+    "code": "srd",
+    "name": "Sardisch"
+  },
+  {
+    "code": "sas",
+    "name": "Sasak"
+  },
+  {
+    "code": "sco",
+    "name": "Schottisch"
+  },
+  {
+    "code": "sel",
+    "name": "Selkupisch"
+  },
+  {
+    "code": "srp",
+    "name": "Serbisch"
+  },
+  {
+    "code": "srr",
+    "name": "Serer-Sprache"
+  },
+  {
+    "code": "shn",
+    "name": "Schan-Sprache"
+  },
+  {
+    "code": "sna",
+    "name": "Schona-Sprache"
+  },
+  {
+    "code": "iii",
+    "name": "Lalo-Sprache"
+  },
+  {
+    "code": "scn",
+    "name": "Sizilianisch"
+  },
+  {
+    "code": "sid",
+    "name": "Sidamo-Sprache"
+  },
+  {
+    "code": "bla",
+    "name": "Blackfoot-Sprache"
+  },
+  {
+    "code": "snd",
+    "name": "Sindhi-Sprache"
+  },
+  {
+    "code": "sin",
+    "name": "Singhalesisch"
+  },
+  {
+    "code": "sms",
+    "name": "Skoltsaamisch"
+  },
+  {
+    "code": "slk",
+    "name": "Slowakisch"
+  },
+  {
+    "code": "slv",
+    "name": "Slowenisch"
+  },
+  {
+    "code": "sog",
+    "name": "Sogdisch"
+  },
+  {
+    "code": "som",
+    "name": "Somali"
+  },
+  {
+    "code": "snk",
+    "name": "Soninke-Sprache"
+  },
+  {
+    "code": "sot",
+    "name": "Süd-Sotho-Sprache"
+  },
+  {
+    "code": "alt",
+    "name": "Altaisch"
+  },
+  {
+    "code": "sma",
+    "name": "Südsaamisch"
+  },
+  {
+    "code": "spa",
+    "name": "Spanisch"
+  },
+  {
+    "code": "srn",
+    "name": "Sranantongo"
+  },
+  {
+    "code": "suk",
+    "name": "Sukuma-Sprache"
+  },
+  {
+    "code": "sux",
+    "name": "Sumerisch"
+  },
+  {
+    "code": "sun",
+    "name": "Sundanesisch"
+  },
+  {
+    "code": "sus",
+    "name": "Susu"
+  },
+  {
+    "code": "swa",
+    "name": "Swahili"
+  },
+  {
+    "code": "ssw",
+    "name": "Swasi-Sprache"
+  },
+  {
+    "code": "swe",
+    "name": "Schwedisch"
+  },
+  {
+    "code": "syr",
+    "name": "Neuostaramäisch"
+  },
+  {
+    "code": "tgl",
+    "name": "Tagalog"
+  },
+  {
+    "code": "tah",
+    "name": "Tahitisch"
+  },
+  {
+    "code": "tgk",
+    "name": "Tadschikisch"
+  },
+  {
+    "code": "tmh",
+    "name": "Tamaeq"
+  },
+  {
+    "code": "tam",
+    "name": "Tamil"
+  },
+  {
+    "code": "tat",
+    "name": "Tatarisch"
+  },
+  {
+    "code": "tel",
+    "name": "Telugu-Sprache"
+  },
+  {
+    "code": "ter",
+    "name": "Tereno-Sprache"
+  },
+  {
+    "code": "tet",
+    "name": "Tetum-Sprache"
+  },
+  {
+    "code": "tha",
+    "name": "Thailändisch"
+  },
+  {
+    "code": "bod",
+    "name": "Tibetisch"
+  },
+  {
+    "code": "tig",
+    "name": "Tigre-Sprache"
+  },
+  {
+    "code": "tir",
+    "name": "Tigrinja-Sprache"
+  },
+  {
+    "code": "tem",
+    "name": "Temne-Sprache"
+  },
+  {
+    "code": "tiv",
+    "name": "Tiv-Sprache"
+  },
+  {
+    "code": "tli",
+    "name": "Tlingit-Sprache"
+  },
+  {
+    "code": "tpi",
+    "name": "Neumelanesisch"
+  },
+  {
+    "code": "tkl",
+    "name": "Tokelauanisch"
+  },
+  {
+    "code": "tog",
+    "name": "Tonga (Bantusprache, Sambia)"
+  },
+  {
+    "code": "ton",
+    "name": "Tongaisch"
+  },
+  {
+    "code": "tsi",
+    "name": "Tsimshian-Sprache"
+  },
+  {
+    "code": "tso",
+    "name": "Tsonga-Sprache"
+  },
+  {
+    "code": "tsn",
+    "name": "Tswana-Sprache"
+  },
+  {
+    "code": "tum",
+    "name": "Tumbuka-Sprache"
+  },
+  {
+    "code": "tur",
+    "name": "Türkisch"
+  },
+  {
+    "code": "tuk",
+    "name": "Turkmenisch"
+  },
+  {
+    "code": "tvl",
+    "name": "Elliceanisch"
+  },
+  {
+    "code": "tyv",
+    "name": "Tuwinisch"
+  },
+  {
+    "code": "twi",
+    "name": "Twi-Sprache"
+  },
+  {
+    "code": "udm",
+    "name": "Udmurtisch"
+  },
+  {
+    "code": "uga",
+    "name": "Ugaritisch"
+  },
+  {
+    "code": "uig",
+    "name": "Uigurisch"
+  },
+  {
+    "code": "ukr",
+    "name": "Ukrainisch"
+  },
+  {
+    "code": "umb",
+    "name": "Mbundu-Sprache"
+  },
+  {
+    "code": "hsb",
+    "name": "Obersorbisch"
+  },
+  {
+    "code": "urd",
+    "name": "Urdu"
+  },
+  {
+    "code": "uzb",
+    "name": "Usbekisch"
+  },
+  {
+    "code": "vai",
+    "name": "Vai-Sprache"
+  },
+  {
+    "code": "ven",
+    "name": "Venda-Sprache"
+  },
+  {
+    "code": "vie",
+    "name": "Vietnamesisch"
+  },
+  {
+    "code": "vol",
+    "name": "Volapük"
+  },
+  {
+    "code": "vot",
+    "name": "Wotisch"
+  },
+  {
+    "code": "wln",
+    "name": "Wallonisch"
+  },
+  {
+    "code": "war",
+    "name": "Waray"
+  },
+  {
+    "code": "was",
+    "name": "Washo-Sprache"
+  },
+  {
+    "code": "cym",
+    "name": "Kymrisch"
+  },
+  {
+    "code": "fry",
+    "name": "Friesisch"
+  },
+  {
+    "code": "wal",
+    "name": "Walamo-Sprache"
+  },
+  {
+    "code": "wol",
+    "name": "Wolof-Sprache"
+  },
+  {
+    "code": "xho",
+    "name": "Xhosa-Sprache"
+  },
+  {
+    "code": "sah",
+    "name": "Jakutisch"
+  },
+  {
+    "code": "yao",
+    "name": "Yao-Sprache (Bantusprache)"
+  },
+  {
+    "code": "yap",
+    "name": "Yapesisch"
+  },
+  {
+    "code": "yid",
+    "name": "Jiddisch"
+  },
+  {
+    "code": "yor",
+    "name": "Yoruba-Sprache"
+  },
+  {
+    "code": "zap",
+    "name": "Zapotekisch"
+  },
+  {
+    "code": "zza",
+    "name": "Zazaki"
+  },
+  {
+    "code": "zen",
+    "name": "Zenaga"
+  },
+  {
+    "code": "zha",
+    "name": "Zhuang"
+  },
+  {
+    "code": "zul",
+    "name": "Zulu-Sprache"
+  },
+  {
+    "code": "zun",
+    "name": "Zuñi-Sprache"
+  }
+]

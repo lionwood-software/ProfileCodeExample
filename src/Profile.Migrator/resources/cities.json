@@ -1,0 +1,128 @@
+﻿[
+  {
+    "id": 1,
+    "geonamesId": "2659994",
+    "name": "Lausanne",
+    "asciiName": "Lausanne",
+    "alternateNames": "Lausana,Lausanne,Lausonium,Lauzano",
+    "timezone": "Europe/Zurich",
+    "countryCode": "CH"
+  },
+  {
+    "id": 2,
+    "geonamesId": "2659601",
+    "name": "Montreux",
+    "asciiName": "Montreux",
+    "alternateNames": "Montr'o,Montre,Montreux,Montreux VD,Montrjo,Montroe",
+    "timezone": "Europe/Zurich",
+    "countryCode": "CH"
+  },
+  {
+    "id": 3,
+    "geonamesId": "2660646",
+    "name": "Genève",
+    "asciiName": "Geneve",
+    "alternateNames": "Cenevre,GVA,Genava,Genebe,Genebra,Geneue,Geneva,Geneve,Genevi,Genevo,Genevra,Genewa,Genf,Genève,Ginebra,Ginevra,Jenewa,Jenwe,Xenebra,Zeneva,Zhehneva,Zheneva,Znev,jeneba,jineva,jnyf,jnywa,junevu,ri nei wa,zheneva,znbh,Ĝenevo,Ženeva,Ženēva,Γενέβη,Γενευη,Γενεύη,Женева,Жэнева,Ժնև,זנבה,جنيف,جنیوا,जिनेवा,ჟენევა,ジュネーヴ,日内瓦,제네바",
+    "countryCode": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 4,
+    "geonamesId": "2996944",
+    "name": "Lyon",
+    "asciiName": "Lyon",
+    "alternateNames": "LYS,Leon do Roine,León do Roine,Lijon,Lio,Lion,Liona,Lionas,Lione,Lioni,Liono,Liun,Liyon,Lió",
+    "countryCode": "FR",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 5,
+    "geonamesId": "2661337",
+    "name": "Bulle",
+    "asciiName": "Bulle",
+    "alternateNames": "Bjul',Bule,Bulle,Bulle FR,Bulle i Sveits,Bulė,Butulum",
+    "countryCode": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 7,
+    "geonamesId": "2658145",
+    "name": "Vevey",
+    "asciiName": "Vevey",
+    "alternateNames": "Lungsod ng Vevey,V'ove,Veve,Vevey,Vevê,Vevė,Vibiscum,ZKZ,beube,fyfy,veve,vuvuei",
+    "countryCode": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 8,
+    "geonamesId": "2988507",
+    "name": "Paris",
+    "asciiName": "Paris",
+    "alternateNames": "Baariis,Bahliz,Ile-de-France,Lungsod ng Paris,Lutece,Lutetia,Lutetia Parisorum,Lutèce,PAR,Pa-ri,Paarys,Palika,Paname,Pantruche,Paraeis,Paras,Pari,Paries,Parigge,Pariggi,Parighji,Parigi,Pariis,Pariisi,Pariizu,Pariižu,Parij,Parijs,Paris,Parisi,Parixe,Pariz,Parize,Parizh,Parizh osh,Parizh',Parizo,Parizs,Pariž,Parys,Paryz,Paryzh,Paryzius,Paryż,Paryžius,Paräis,París,Paríž,Parîs,Parĩ,Parī,Parīze,Paříž,Páras,Párizs,Ville-Lumiere,Ville-Lumière,ba li,barys,pairisa,pali,pari,paris,parys,paryzh,perisa,pryz,pyaris,pyarisa,pyrs",
+    "countryCode": "FR",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 9,
+    "geonamesId": "2661604",
+    "name": "Basel",
+    "asciiName": "Basel",
+    "alternateNames": "Baariis,Bahliz,Ile-de-France,Lungsod ng Paris,Lutece,Lutetia,Lutetia Parisorum,Lutèce,PAR,Pa-ri,Paarys,Palika,Paname,Pantruche,Paraeis,Paras,Pari,Paries,Parigge,Pariggi,Parighji,Parigi,Pariis,Pariisi,Pariizu,Pariižu,Parij,Parijs,Paris,Parisi,Parixe,Pariz,Parize,Parizh,Parizh osh,Parizh',Parizo,Parizs,Pariž,Parys,Paryz,Paryzh,Paryzius,Paryż,Paryžius,Paräis,París,Paríž,Parîs,Parĩ,Parī,Parīze,Paříž,Páras,Párizs,Ville-Lumiere,Ville-Lumière,ba li,barys,pairisa,pali,pari,paris,parys,paryzh,perisa,pryz,pyaris,pyarisa,pyrs",
+    "countryCode": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 10,
+    "geonamesId": "2661552",
+    "name": "Bern",
+    "asciiName": "Bern",
+    "alternateNames": "BRN,Bann,Beirn,Ben,Bern,Bern osh,Berna,Bernas,Berne,Berno,Bundesstadt,Bèn,Bèrna,atharvaveda,ban he na,barana,barna,beirn,beleun,berna,berni,berun,bo en,bo er ni,brn,byrn,pern,Βέρνη,Берн,Берн ош,Բեռն,בערן,ברן,برن,بيرن,بێرن,بېرن,ܒܪܢ,अथर्ववेद,बर्न,বের্ন,ਬਰਨ,ବର୍ନ,பேர்ன்,ബേൺ,เบิร์น,པེར་ནེ།,ბერნი,ቤርን,ベルン,伯尔尼,伯恩,办合纳,베른",
+    "countryCode": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 11,
+    "geonamesId": "2659836",
+    "name": "Lugano",
+    "asciiName": "Lugano",
+    "alternateNames": "LUG,Lounkano,Luegan,Lugan,Lugana,Luganas,Lugano,Luganu,Luganum,Lugāno,Lügan,lu jia nuo,luganea,lugano,lwganw,lwghanw,lwgnw,rugano,Ługàn,Λουγκάνο,Лугана,Лугано,Луґано,Լուգանո,לוגאנא,לוגאנו,لوغانو,لوگانو,لوگنو,लुगानो,ലുഗാനോ,ལུ་ག་ནོ།,ლუგანო,ルガーノ,盧加諾,루가노",
+    "countryCode": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 12,
+    "geonamesId": "2657896",
+    "name": "Zürich",
+    "asciiName": "Zurich",
+    "alternateNames": "Cirihe,Cirikh,Ciurichas,Cjurikh,Cjurikh khot,Cjurykh,Cuerih,Curych,Cürih,Cīrihe,Lungsod ng Zuerich,Lungsod ng Zürich,Su-la-sie,Suerix,Syurix,Sürix,Sŭ-là̤-sié,Tsuerix,Tsurique,Tsürix,Turicum,Turitg,ZRH,Zeurich,Zirich,Zirik,Zuerich,Zuerigh,Zuerih,Zuric,Zurich,Zuricu,Zurigh,Zurigo,Zuriko,Zurique,Zurych,Zurìcu,Zyriche,Zyrihu,Zúric,Zúrich,Zürich,Zürigh,Zürih,churihhi,chwilihi,curikku,jhyurika,jurikha,su li shi,su rik,suricc,tsiurikhi,tsyryk,zi'urikha,zwrykh,zyryk,zyurikha,zywrch,zywrh,zywrkh,Ζυρίχη,Цирих,Цюрих,Цюрих хот,Цюрых,Ցյուրիխ,ציריך,زوريخ,زوریخ,زيورخ,زیورخ,زیورچ,سيۇرىخ,څوریخ,ܙܝܘܪܚ,ܬܣܝܪܝܟ,ज़्यूरिख़,झ्युरिक,জুরিখ,ਜ਼ਿਊਰਿਖ,சூரிக்கு,സൂറിച്ച്,ซูริก,ဇူးရစ်ချ်မြို့,ციურიხი,ዙሪክ,チューリッヒ,苏黎世,蘇黎世,취리히",
+    "countryCode": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "id": 13,
+    "geonamesId": "3031582",
+    "name": "Bordeaux",
+    "asciiName": "Bordeaux",
+    "alternateNames": "BOD,Bardo,Bordeaux,Bordele,Bordeos,Bordeu,Bordeus,Bordo,Bordox,Bordozo,Bordèu,Bordéus,Bordò,Bordôx,Bornto,Bourdel,Burdeos,Burdeus,Burdigala,bo er duo,boleudo,borado,bordo,bordu,borudo,bwrdw,bwrڈw,bxr do,porto,Μπορντό,Бардо,Бордо,Բորդո,בארדא,בורדו,بوردو,بورڈو,बोर्दू,बोर्दो,ਬੋਰਦੋ,பொர்தோ,บอร์โด,ບອກໂດ,ბორდო,ቦርዶ,ボルドー,波尔多,波爾多,보르도",
+    "countryCode": "FR",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 14,
+    "geonamesId": "2998324",
+    "name": "Lille",
+    "asciiName": "Lille",
+    "alternateNames": "Insula,LIL,Lil,Lil',Lila,Lile,Lilis,Lill,Lill',Lilla,Lille,Lilo,Rijsel,Risel,Rysel,li er,lil,lil.,lila,lili,lly,lyl,riru,Λιλ,Лил,Лилль,Лілль,Ліль,Լիլ,ליל,للی,ليل,لیل,लील,ਲੀਲ,லீல்,ลีล,ლილი,リール,里尔,里爾,릴",
+    "countryCode": "FR",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": 15,
+    "geonamesId": "2990440",
+    "name": "Nice",
+    "asciiName": "Nice",
+    "alternateNames": "NCE,Nica,Nicaea,Nicc,Nicca,Niccae,Nice,Nicea,Nico,Nikaia,Nis,Nisa,Nissa,Nissa Maritima,Nissa Marìtima,Nitza,Niza,Nizza,Niça,Nìsa,ni si,nis,nisa,niseu,nisu,nitsa,nys,Νίκαια,Ница,Ниццæ,Ницца,Ніца,Ніцца,Նիս,ניס,نيس,نیس,नीस,নিস,ਨੀਸ,நீஸ்,నీస్,นิส,ნიცა,ニース,尼斯,니스",
+    "countryCode": "FR",
+    "timezone": "Europe/Paris"
+  }
+]

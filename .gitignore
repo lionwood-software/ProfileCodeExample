@@ -1,0 +1,13 @@
+src/Profile.Core/bin/
+src/Profile.Core/obj/
+src/Profile.Infrastructure/bin/
+src/Profile.Infrastructure/obj/
+src/Profile.Migrator/bin/
+src/Profile.Migrator/obj/
+src/Profile.WebApi/bin/
+src/Profile.WebApi/Logs/
+src/Profile.WebApi/obj/
+tests/Profile.Tests/obj/
+tests/Profile.WebApi.Tests/bin/
+tests/Profile.WebApi.Tests/obj/
+tests/Profile.Tests/bin/

@@ -1,0 +1,106 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CommandLineParser" Version="2.8.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="appsettings.json" />
+      <None Remove="resources\jobCategories.de.json" />
+      <None Remove="resources\jobCategories.en.json" />
+      <None Remove="resources\jobCategories.fr.json" />
+      <None Remove="resources\jobCategories.json" />
+      <None Remove="resources\jobRoles.de.json" />
+      <None Remove="resources\jobRoles.en.json" />
+      <None Remove="resources\jobRoles.fr.json" />
+      <None Remove="resources\jobRoles.json" />
+      <None Remove="resources\languages.de.json" />
+      <None Remove="resources\languages.en.json" />
+      <None Remove="resources\languages.fr.json" />
+      <None Remove="resources\languages.json" />
+      <Content Include="appsettings.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="resources\countries.fr.json" />
+      <Content Include="resources\cities.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="resources\countries.fr.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="resources\countries.en.json" />
+      <Content Include="resources\countries.en.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="resources\countries.de.json" />
+      <Content Include="resources\countries.de.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="resources\activeCountries.json" />
+      <Content Include="resources\activeCountries.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="resources\cities.json" />
+      <None Remove="resources\activeCities.json" />
+      <Content Include="resources\activeCities.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="resources\cities.de.json" />
+      <Content Include="resources\cities.de.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="resources\cities.en.json" />
+      <Content Include="resources\cities.en.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="resources\cities.fr.json" />
+      <Content Include="resources\cities.fr.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="resources\languages.de.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="resources\languages.en.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="resources\languages.fr.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="resources\languages.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Profile.Core\Profile.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="resources\proficiencies.de.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="resources\proficiencies.en.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="resources\proficiencies.fr.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="resources\proficiencies.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="resources\regions.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+</Project>

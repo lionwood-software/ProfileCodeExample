@@ -1,0 +1,656 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Ain",
+    "code": "1",
+    "countryCode": "fr"
+  },
+  {
+    "id": 2,
+    "name": "Aisne",
+    "code": "2",
+    "countryCode": "fr"
+  },
+  {
+    "id": 3,
+    "name": "Allier",
+    "code": "3",
+    "countryCode": "fr"
+  },
+  {
+    "id": 4,
+    "name": "Alpes-de-Haute-Provence",
+    "code": "4",
+    "countryCode": "fr"
+  },
+  {
+    "id": 5,
+    "name": "Hautes-Alpes",
+    "code": "5",
+    "countryCode": "fr"
+  },
+  {
+    "id": 6,
+    "name": "Alpes-Maritimes",
+    "code": "6",
+    "countryCode": "fr"
+  },
+  {
+    "id": 7,
+    "name": "Ardèche",
+    "code": "7",
+    "countryCode": "fr"
+  },
+  {
+    "id": 8,
+    "name": "Ardennes",
+    "code": "8",
+    "countryCode": "fr"
+  },
+  {
+    "id": 9,
+    "name": "Ariège",
+    "code": "9",
+    "countryCode": "fr"
+  },
+  {
+    "id": 10,
+    "name": "Aube",
+    "code": "10",
+    "countryCode": "fr"
+  },
+  {
+    "id": 11,
+    "name": "Aude",
+    "code": "11",
+    "countryCode": "fr"
+  },
+  {
+    "id": 12,
+    "name": "Aveyron",
+    "code": "12",
+    "countryCode": "fr"
+  },
+  {
+    "id": 13,
+    "name": "Bouches-du-Rhône",
+    "code": "13",
+    "countryCode": "fr"
+  },
+  {
+    "id": 14,
+    "name": "Calvados",
+    "code": "14",
+    "countryCode": "fr"
+  },
+  {
+    "id": 15,
+    "name": "Cantal",
+    "code": "15",
+    "countryCode": "fr"
+  },
+  {
+    "id": 16,
+    "name": "Charente",
+    "code": "16",
+    "countryCode": "fr"
+  },
+  {
+    "id": 17,
+    "name": "Charente-Maritime",
+    "code": "17",
+    "countryCode": "fr"
+  },
+  {
+    "id": 18,
+    "name": "Cher",
+    "code": "18",
+    "countryCode": "fr"
+  },
+  {
+    "id": 19,
+    "name": "Corrèze",
+    "code": "19",
+    "countryCode": "fr"
+  },
+  {
+    "id": 20,
+    "name": "Côte-d'Or",
+    "code": "21",
+    "countryCode": "fr"
+  },
+  {
+    "id": 21,
+    "name": "Côtes-d'Armor",
+    "code": "22",
+    "countryCode": "fr"
+  },
+  {
+    "id": 22,
+    "name": "Creuse",
+    "code": "23",
+    "countryCode": "fr"
+  },
+  {
+    "id": 23,
+    "name": "Dordogne",
+    "code": "24",
+    "countryCode": "fr"
+  },
+  {
+    "id": 24,
+    "name": "Doubs",
+    "code": "25",
+    "countryCode": "fr"
+  },
+  {
+    "id": 25,
+    "name": "Drôme",
+    "code": "26",
+    "countryCode": "fr"
+  },
+  {
+    "id": 26,
+    "name": "Eure",
+    "code": "27",
+    "countryCode": "fr"
+  },
+  {
+    "id": 27,
+    "name": "Eure-et-Loir",
+    "code": "28",
+    "countryCode": "fr"
+  },
+  {
+    "id": 28,
+    "name": "Finistère",
+    "code": "29",
+    "countryCode": "fr"
+  },
+  {
+    "id": 29,
+    "name": "Corse-du-Sud",
+    "code": "2A",
+    "countryCode": "fr"
+  },
+  {
+    "id": 30,
+    "name": "Haute-Corse",
+    "code": "2B",
+    "countryCode": "fr"
+  },
+  {
+    "id": 31,
+    "name": "Gard",
+    "code": "30",
+    "countryCode": "fr"
+  },
+  {
+    "id": 32,
+    "name": "Haute-Garonne",
+    "code": "31",
+    "countryCode": "fr"
+  },
+  {
+    "id": 33,
+    "name": "Gers",
+    "code": "32",
+    "countryCode": "fr"
+  },
+  {
+    "id": 34,
+    "name": "Gironde",
+    "code": "33",
+    "countryCode": "fr"
+  },
+  {
+    "id": 35,
+    "name": "Hérault",
+    "code": "34",
+    "countryCode": "fr"
+  },
+  {
+    "id": 36,
+    "name": "Ille-et-Vilaine",
+    "code": "35",
+    "countryCode": "fr"
+  },
+  {
+    "id": 37,
+    "name": "Indre",
+    "code": "36",
+    "countryCode": "fr"
+  },
+  {
+    "id": 38,
+    "name": "Indre-et-Loire",
+    "code": "37",
+    "countryCode": "fr"
+  },
+  {
+    "id": 39,
+    "name": "Isère",
+    "code": "38",
+    "countryCode": "fr"
+  },
+  {
+    "id": 40,
+    "name": "Jura",
+    "code": "39",
+    "countryCode": "fr"
+  },
+  {
+    "id": 41,
+    "name": "Landes",
+    "code": "40",
+    "countryCode": "fr"
+  },
+  {
+    "id": 42,
+    "name": "Loir-et-Cher",
+    "code": "41",
+    "countryCode": "fr"
+  },
+  {
+    "id": 43,
+    "name": "Loire",
+    "code": "42",
+    "countryCode": "fr"
+  },
+  {
+    "id": 44,
+    "name": "Haute-Loire",
+    "code": "43",
+    "countryCode": "fr"
+  },
+  {
+    "id": 45,
+    "name": "Loire-Atlantique",
+    "code": "44",
+    "countryCode": "fr"
+  },
+  {
+    "id": 46,
+    "name": "Loiret",
+    "code": "45",
+    "countryCode": "fr"
+  },
+  {
+    "id": 47,
+    "name": "Lot",
+    "code": "46",
+    "countryCode": "fr"
+  },
+  {
+    "id": 48,
+    "name": "Lot-et-Garonne",
+    "code": "47",
+    "countryCode": "fr"
+  },
+  {
+    "id": 49,
+    "name": "Lozère",
+    "code": "48",
+    "countryCode": "fr"
+  },
+  {
+    "id": 50,
+    "name": "Maine-et-Loire",
+    "code": "49",
+    "countryCode": "fr"
+  },
+  {
+    "id": 51,
+    "name": "Manche",
+    "code": "50",
+    "countryCode": "fr"
+  },
+  {
+    "id": 52,
+    "name": "Marne",
+    "code": "51",
+    "countryCode": "fr"
+  },
+  {
+    "id": 53,
+    "name": "Haute-Marne",
+    "code": "52",
+    "countryCode": "fr"
+  },
+  {
+    "id": 54,
+    "name": "Mayenne",
+    "code": "53",
+    "countryCode": "fr"
+  },
+  {
+    "id": 55,
+    "name": "Meurthe-et-Moselle",
+    "code": "54",
+    "countryCode": "fr"
+  },
+  {
+    "id": 56,
+    "name": "Meuse",
+    "code": "55",
+    "countryCode": "fr"
+  },
+  {
+    "id": 57,
+    "name": "Morbihan",
+    "code": "56",
+    "countryCode": "fr"
+  },
+  {
+    "id": 58,
+    "name": "Moselle",
+    "code": "57",
+    "countryCode": "fr"
+  },
+  {
+    "id": 59,
+    "name": "Nièvre",
+    "code": "58",
+    "countryCode": "fr"
+  },
+  {
+    "id": 60,
+    "name": "Nord",
+    "code": "59",
+    "countryCode": "fr"
+  },
+  {
+    "id": 61,
+    "name": "Oise",
+    "code": "60",
+    "countryCode": "fr"
+  },
+  {
+    "id": 62,
+    "name": "Orne",
+    "code": "61",
+    "countryCode": "fr"
+  },
+  {
+    "id": 63,
+    "name": "Pas-de-Calais",
+    "code": "62",
+    "countryCode": "fr"
+  },
+  {
+    "id": 64,
+    "name": "Puy-de-Dôme",
+    "code": "63",
+    "countryCode": "fr"
+  },
+  {
+    "id": 65,
+    "name": "Pyrénées-Atlantiques",
+    "code": "64",
+    "countryCode": "fr"
+  },
+  {
+    "id": 66,
+    "name": "Hautes-Pyrénées",
+    "code": "65",
+    "countryCode": "fr"
+  },
+  {
+    "id": 67,
+    "name": "Pyrénées-Orientales",
+    "code": "66",
+    "countryCode": "fr"
+  },
+  {
+    "id": 68,
+    "name": "Bas-Rhin",
+    "code": "67",
+    "countryCode": "fr"
+  },
+  {
+    "id": 69,
+    "name": "Haut-Rhin",
+    "code": "68",
+    "countryCode": "fr"
+  },
+  {
+    "id": 70,
+    "name": "Rhône",
+    "code": "69",
+    "countryCode": "fr"
+  },
+  {
+    "id": 71,
+    "name": "Haute-Saône",
+    "code": "70",
+    "countryCode": "fr"
+  },
+  {
+    "id": 72,
+    "name": "Haute-Saône",
+    "code": "71",
+    "countryCode": "fr"
+  },
+  {
+    "id": 73,
+    "name": "Sarthe",
+    "code": "72",
+    "countryCode": "fr"
+  },
+  {
+    "id": 74,
+    "name": "Savoie",
+    "code": "73",
+    "countryCode": "fr"
+  },
+  {
+    "id": 75,
+    "name": "Haute-Savoie",
+    "code": "74",
+    "countryCode": "fr"
+  },
+  {
+    "id": 76,
+    "name": "Paris",
+    "code": "75",
+    "countryCode": "fr"
+  },
+  {
+    "id": 77,
+    "name": "Seine-Maritime",
+    "code": "76",
+    "countryCode": "fr"
+  },
+  {
+    "id": 78,
+    "name": "Seine-et-Marne",
+    "code": "77",
+    "countryCode": "fr"
+  },
+  {
+    "id": 79,
+    "name": "Yvelines",
+    "code": "78",
+    "countryCode": "fr"
+  },
+  {
+    "id": 80,
+    "name": "Deux-Sèvres",
+    "code": "79",
+    "countryCode": "fr"
+  },
+  {
+    "id": 81,
+    "name": "Somme",
+    "code": "80",
+    "countryCode": "fr"
+  },
+  {
+    "id": 82,
+    "name": "Tarn",
+    "code": "81",
+    "countryCode": "fr"
+  },
+  {
+    "id": 83,
+    "name": "Tarn-et-Garonne",
+    "code": "82",
+    "countryCode": "fr"
+  },
+  {
+    "id": 84,
+    "name": "Var",
+    "code": "83",
+    "countryCode": "fr"
+  },
+  {
+    "id": 85,
+    "name": "Vaucluse",
+    "code": "84",
+    "countryCode": "fr"
+  },
+  {
+    "id": 86,
+    "name": "Vendée",
+    "code": "85",
+    "countryCode": "fr"
+  },
+  {
+    "id": 87,
+    "name": "Vienne",
+    "code": "86",
+    "countryCode": "fr"
+  },
+  {
+    "id": 88,
+    "name": "Haute-Vienne",
+    "code": "87",
+    "countryCode": "fr"
+  },
+  {
+    "id": 89,
+    "name": "Vosges",
+    "code": "88",
+    "countryCode": "fr"
+  },
+  {
+    "id": 90,
+    "name": "Yonne",
+    "code": "89",
+    "countryCode": "fr"
+  },
+  {
+    "id": 91,
+    "name": "Territoire de Belfort",
+    "code": "90",
+    "countryCode": "fr"
+  },
+  {
+    "id": 92,
+    "name": "Essonne",
+    "code": "91",
+    "countryCode": "fr"
+  },
+  {
+    "id": 93,
+    "name": "Hauts-de-Seine",
+    "code": "92",
+    "countryCode": "fr"
+  },
+  {
+    "id": 94,
+    "name": "Seine-Saint-Denis",
+    "code": "93",
+    "countryCode": "fr"
+  },
+  {
+    "id": 95,
+    "name": "Val-de-Marne",
+    "code": "94",
+    "countryCode": "fr"
+  },
+  {
+    "id": 96,
+    "name": "Val-d'Oise",
+    "code": "95",
+    "countryCode": "fr"
+  },
+  {
+    "id": 97,
+    "name": "Guadeloupe",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 98,
+    "name": "Martinique",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 99,
+    "name": "Guyane",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 100,
+    "name": "La réunion",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 101,
+    "name": "Mayotte",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 102,
+    "name": "Saint-Pierre et Miquelon",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 103,
+    "name": "Saint Barthélemy",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 104,
+    "name": "Saint Martin",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 105,
+    "name": "Wallis-et-Futuna",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 106,
+    "name": "Polynésie française",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 107,
+    "name": "Nouvelle Calédonie",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 108,
+    "name": "Terres australes et antarctiques françaises",
+    "code": "97",
+    "countryCode": "fr"
+  },
+  {
+    "id": 109,
+    "name": "Clipperton",
+    "code": "97",
+    "countryCode": "fr"
+  }
+]

@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: profile-service
+spec:
+  selector:
+    matchLabels:
+      app: profile-service
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: profile-service
+    spec:
+      nodeSelector:
+        kubernetes.io/os: linux
+        env: dev
+      restartPolicy: Always
+      containers:
+        - image: extrasmeregistrydev.azurecr.io/profile-service-dev:latest
+          name: profile-service
+          imagePullPolicy: Always
+          resources:
+            requests:
+              cpu: 64m
+              memory: 64Mi
+            limits:
+              cpu: 512m
+              memory: 512Mi
+          ports:
+            - containerPort: 80
+              name: http
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: 80
